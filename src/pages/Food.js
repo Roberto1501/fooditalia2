@@ -1,7 +1,7 @@
 import React from 'react';
 import ResponsiveAppBar from '../components/NavBar';
 
-function Index() {
+function Food() {
   return (
     <React.Fragment>
         <ResponsiveAppBar />
@@ -10,4 +10,4 @@ function Index() {
   );
 }
 
-export default Index;
+export default Food;
