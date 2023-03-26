@@ -1,14 +1,13 @@
-import { Grid } from '@mui/material';
-import React from 'react';
-import Formulario from '../components/Formulario'
+import { Grid } from "@mui/material";
+import React from "react";
+import Formulario from "../components/Formulario";
 
-
-function ComponetName() {
+function Home() {
   return (
-    <Grid container >
-        <Formulario />
+    <Grid container>
+      <Formulario />
     </Grid>
   );
 }
 
-export default ComponetName;
+export default Home;
